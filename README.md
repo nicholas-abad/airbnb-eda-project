@@ -1,2 +1,1 @@
-# airbnb-eda-project
-Performing EDA on the NYC Air BnB dataset.
+Hey, look at Untitled.ipynb
